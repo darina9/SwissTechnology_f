@@ -1,4 +1,4 @@
-# swees
+# swiss
 
 ## Project setup
 ```
